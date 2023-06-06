@@ -134,7 +134,7 @@ endmodule
 
 ### TRUTH TABLE 
 ## ENCODER:
-![Uploading 238201222-ad0b882b-c67a-4123-9a99-05a046620748.png…]()
+![238201222-ad0b882b-c67a-4123-9a99-05a046620748](https://github.com/AdhithyaMR/Experiment-08-Encoders-and-decoders-/assets/118834761/8e67bf7e-bc78-457e-b489-937c38fc25de)
 
 
 
