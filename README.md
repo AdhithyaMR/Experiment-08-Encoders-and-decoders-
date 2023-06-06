@@ -109,11 +109,11 @@ endmodule
 
 
 ### RTL LOGIC  
-##ENCODER:
+## ENCODER:
 
 ![238201089-3cf57309-be55-4000-a449-4bafc50c0867](https://github.com/AdhithyaMR/Experiment-08-Encoders-and-decoders-/assets/118834761/649847c9-08ca-4603-9e89-4851a79acb2d)
 
-##DECODER:
+## DECODER:
 
 ![238201175-9b6b7d5c-1ed7-4765-99ea-708e344dbb61](https://github.com/AdhithyaMR/Experiment-08-Encoders-and-decoders-/assets/118834761/5f171bc4-6ec7-443d-8025-ab89e5cf8fa5)
 
@@ -123,23 +123,23 @@ endmodule
 
 
 ### TIMING DIGRAMS  
-##ENCODER:
+## ENCODER:
 ![238201185-bcd68201-3930-497a-acf4-3582f27fb67a](https://github.com/AdhithyaMR/Experiment-08-Encoders-and-decoders-/assets/118834761/4a520e7a-6684-471e-92ff-d55a1d66268a)
 
-##DECODER:
+## DECODER:
 ![238201198-4b45ba4f-3f3c-4191-869a-83bbc9b6a84e](https://github.com/AdhithyaMR/Experiment-08-Encoders-and-decoders-/assets/118834761/64aaf744-33f1-45ac-9a3e-0d843f4adcd3)
 
 
 
 
 ### TRUTH TABLE 
-##ENCODER:
+## ENCODER:
 ![Uploading 238201222-ad0b882b-c67a-4123-9a99-05a046620748.png…]()
 
 
 
 
-##DECODER:
+## DECODER:
 
 
 ![238201235-a00f15d2-fc49-46ba-97c3-2c4851257f2c](https://github.com/AdhithyaMR/Experiment-08-Encoders-and-decoders-/assets/118834761/bb952ce6-d8e2-4f84-932e-0b9be7aa21a6)
